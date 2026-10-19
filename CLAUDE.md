@@ -12,6 +12,7 @@ Skills are installed from this GitHub repo via the Cowork plugin system.
 - **marketing-ui** — Build landing/marketing pages
 - **gsap** — Animation with GSAP/ScrollTrigger
 - **shadcn** — Component work with shadcn/ui
+- **reverse-engineer-anything** — Reverse engineer binaries, apps, and sites with REA (needs the REA MCP: `npx rea-agents setup`)
 
 ## How to Add a New Skill
 1. Create a folder under `plugins/business-tools/skills/<skill-name>/`

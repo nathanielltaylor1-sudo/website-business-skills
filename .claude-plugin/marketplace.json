@@ -1,0 +1,13 @@
+{
+  "name": "website-business-skills",
+  "owner": {
+    "name": "Nathaniel Taylor"
+  },
+  "plugins": [
+    {
+      "name": "business-tools",
+      "source": "./plugins/business-tools",
+      "description": "Personal skills for website and business work"
+    }
+  ]
+}
